@@ -1,4 +1,4 @@
-# WMJ_EPOS_System
+# WMJ EPOS System
  EPOS System written to make use of lists, collections, file handling and file I/O
  
  # Description
