@@ -1,0 +1,15 @@
+Trading Day: 18-12-2024, Report Generation Time : 23:52:37
+
+                         XS      S       M       L       XL      
+Boucle Knit              25      21      44      22      78      
+Cable Knit               56      42      25      34      54      
+Cashmere                 30      33      56      31      90      
+Twist Knit               90      45      20      54      86      
+Fisherman Knit           14      98      99      23      43      
+Aran                     32      21      44      22      78      
+Button Placket           22      38      31      34      54      
+Full Zipper              34      60      22      31      90      
+Cowl                     13      45      34      50      86      
+Merino                   14      98      99      23      43      
+
+() - Stock for this particular Jumper is low and needs to be ordered
